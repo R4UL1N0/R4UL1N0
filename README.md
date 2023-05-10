@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Interests:
-flutter firebase css3 android grafana docker git java radstudio typescript jenkins postgresql mysql spring jhipster heroku nodejs linux reactnative react postman angular
 
 <!--
 
