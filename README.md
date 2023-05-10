@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Interests:
+<i class="fab fa-github" style="font-size: 30px; color: #333;"></i>
 
 <!--
 
