@@ -1,3 +1,9 @@
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" 
+    integrity="sha384-8C+OgHHRpi+2m82MX9v+0JgVRbl+82bpxrGxE/xXvZBd+yZ0M+gKFIbNCT9Bgrnd" 
+    crossorigin="anonymous">
+</head>
+
 ### Hi there 👋
 
 Interests:
