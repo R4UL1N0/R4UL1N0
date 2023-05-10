@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+Interests:
+flutter firebase css3 android grafana docker git java radstudio typescript jenkins postgresql mysql spring jhipster heroku nodejs linux reactnative react postman angular
+
 <!--
-**R4UL1N0/R4UL1N0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
